@@ -6,6 +6,6 @@ Projects I worked on while attending the Data Analysis TripleTen Bootcamp.
 | Project number | Title | Description |
 | :-----------: | ----------- |----------- |
 | 1 | [Air BNB Rental Analysis](https://docs.google.com/spreadsheets/d/1d7hD6cweAox-Vzc6uU4OBSxh0ErbYXgjzQ-gFXUkShE/edit?usp=sharing)| The project task was to analyze popularity in New York City in regards to rentals and neighborhoods. |
-| 2 | [Instacart](https://github.com/zarina-perez/TripleTen_projects/tree/main/02-EDA_project) | The project task was to prepare a report that gives insight into the shopping habits of Instacart customers |
-| 3 | A/A/B Test Analysis | The project task was to study the sales funnel and analyze the results of an A/B test for a food startup. |
-| 4 | Machine Learning Customer Interaction Strategies | The project task was to help a chain of fitness clubs develop a customer retention strategy. |
+| 2 | [Fresh Beats User Data](https://docs.google.com/spreadsheets/d/1obqKv_CiNrT97U-B8GTqABtzg9SPJ7b-sVMzpHh5nuY/edit?usp=sharing) | The project task was to prepare a report that gives insight subscriction users & the types of music they prefer. |
+| 3 | [Business Analytics](https://docs.google.com/spreadsheets/d/1CacOYvDz4xHRm9NtxjlJbARRNqUi5vk0JFL1KeSN-GM/edit?usp=sharing) | The project task was to review and analyze user purchase data. |
+
